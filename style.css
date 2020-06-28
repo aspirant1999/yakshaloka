@@ -1,0 +1,81 @@
+body {
+  background-color: #fff8f8;
+}
+
+.navbar {
+  background-color: #f7b733;
+  box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
+}
+.navbar-header a {
+  color: rgb(255, 255, 255);
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 33px;
+}
+.navbar-nav a {
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+}
+.active a {
+  color: #4abdac;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.art {
+  background-color: #4abdac;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 100px;
+  margin-top: 10px;
+  color: white;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 20px;
+}
+.yakshagana {
+  background-color: #62dac8;
+  display: flex;
+  justify-content: center;
+  padding: 6px;
+  border-radius: 100px;
+  margin-top: 10px;
+  color: white;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 18px;
+}
+.cont {
+  background-color: #e3e3e3;
+  display: flex;
+  justify-content: center;
+  padding: 16px;
+  border-radius: 20px;
+  margin-top: 10px;
+  color: rgb(129, 127, 127);
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 18px;
+}
+.gall {
+  background-color: #4abdac;
+  display: flex;
+  justify-content: center;
+  padding: 10px 20px;
+  border-radius: 100px;
+  margin-top: 6%;
+  color: white;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 20px;
+}
+
+.img {
+  background-color: #e3e3e3;
+  display: flex;
+  justify-content: center;
+  padding: 60px 0px;
+  border-radius: 10px;
+  margin: 5% 4%;
+  color: rgb(129, 127, 127);
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 18px;
+}
+.clr {
+  background-color: #f7b733;
+  padding: 20px;
+}
